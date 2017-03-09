@@ -11,6 +11,5 @@ namespace Notforuse
         static void Main(string[] args)
         {
         }//I made a thing
-        
-    }//this is an extra  thing
+    }
 }
