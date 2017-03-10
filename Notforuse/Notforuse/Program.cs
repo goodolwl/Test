@@ -12,6 +12,6 @@ namespace Notforuse
         {
         }//I made a thing
         //Hello, I am ProgenitorG
-    }//Hello This is brom my desktop
+    }//Hello This is from my desktop
 
-}
+}//hello this if from the laptop
