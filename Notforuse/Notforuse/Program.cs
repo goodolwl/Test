@@ -10,6 +10,6 @@ namespace Notforuse
     {
         static void Main(string[] args)
         {
-        }//I made a thing
+        }//I made a thing... So did I
     }
 }
